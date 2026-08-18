@@ -29,8 +29,6 @@ The Iris dataset contains 150 samples of iris flowers with 4 measurements (featu
 ```
 EXPS_Task1_Iris_Classification/
 ├── iris_classification.ipynb      # Main Jupyter notebook
-├── dataset/                        # Dataset folder
-│   └── iris.csv                   # Iris dataset (if downloaded separately)
 ├── results/                        # Output visualizations
 │   ├── 01_feature_distributions.png
 │   ├── 02_model_comparison.png
