@@ -1,8 +1,9 @@
+```gitignore
 # Virtual Environment
 venv/
 env/
 ENV/
-.venv
+.venv/
 
 # Python
 __pycache__/
@@ -27,8 +28,7 @@ wheels/
 *.egg
 
 # Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
+.ipynb_checkpoints/
 
 # IDE
 .vscode/
@@ -45,11 +45,8 @@ Thumbs.db
 *.log
 logs/
 
-# Dataset files (optional)
-*.csv
-data/
-
 # Temporary files
 *.tmp
 *.temp
 temp/
+```
